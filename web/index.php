@@ -5,3 +5,4 @@ echo 'I\'m alive!';
 echo 'commit init ';
 <br>;пше
 echo 'commit 2 ';
+echo 'commit 3' ;
